@@ -8,3 +8,4 @@ not like I put any IP in this basic text doccument.  Sorry if that is boring.
 
 v0.001 created file and added licensing 3/2/2022.
 v0.002 added this readme file as it's first update 3/2/2022.
+
